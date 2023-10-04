@@ -1,3 +1,3 @@
 # nakul.repo
-My first repo
+My first Git repo.
 Author- Nakul Kapre
